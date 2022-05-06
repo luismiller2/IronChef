@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Kale and Quinoa Salad with Black Beans",
+      "ingredients": "1 teaspoon ancho chile powder (or other pure chile powder, not a blend) 1 cup quinoa, rinsed very well (I used a combo of red and white quinoa",
+      "instructions": "Heat a saucepan.",
+      "vegetarian": true
+    },
+    {
+      "name": "Salad",
+      "ingredients": "Grass",
+      "instructions": "Pour bag of grass",
+      "vegetarian": true
+    },
+    {
+      "name": "Baked Sweet Potato",
+      "ingredients": "Sweet Potatoe Cheese Bacon" ,
+      "instructions": "Heat in an oven at 350 for 15 minutes",
+      "vegetarian": true
+    },
+    {
+      "name": "Burger",
+      "ingredients": "Buns burger patty lettuce tomatoe cheese Krabby Patty Secret Formula",
+      "instructions": "Keep Plankton away",
+      "vegetarian": false
+    },
+    {
+      "name": "Steak",
+      "ingredients": "Steak",
+      "instructions": "Medium Rare",
+      "vegetarian": false
+    }
+    
+  ]
